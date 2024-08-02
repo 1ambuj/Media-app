@@ -16,7 +16,7 @@ Capture images, Record videos. Upload to cloud and get it whenever you need.
 
    ```bash
    git clone https://github.com/1ambuj/Media-app.git
-2. Run `npm instal`
+2. Run `npm install`
 3. Run `npm start` you will get a QR code in terminal
 4. Install [expo go app](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN)
 5. Open expo go app and scan the QR code in terminal
